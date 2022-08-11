@@ -1,0 +1,16 @@
+INPUT(
+./debug\main.o
+./debug\imagen.o
+./debug\pixel.o
+./debug\archivo.o
+./debug\archivomif.o
+./debug\interfazconsola.o
+./debug\sistema.o
+./debug\graficador.o
+./debug\procesamiento.o
+./debug\filtrocolor.o
+./debug\structdet.o
+./debug\metadatos.o
+./debug\pixelado.o
+./debug\archivoppm.o
+);

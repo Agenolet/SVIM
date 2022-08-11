@@ -1,0 +1,16 @@
+INPUT(
+./release\main.o
+./release\imagen.o
+./release\pixel.o
+./release\archivo.o
+./release\archivomif.o
+./release\interfazconsola.o
+./release\sistema.o
+./release\graficador.o
+./release\procesamiento.o
+./release\filtrocolor.o
+./release\structdet.o
+./release\metadatos.o
+./release\pixelado.o
+./release\archivoppm.o
+);
